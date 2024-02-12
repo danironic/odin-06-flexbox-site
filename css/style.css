@@ -15,3 +15,21 @@ body {
    background-color: #1F2937;
 }
 
+.hero h1,
+.logo {
+   color: #F9FAF8;
+}
+
+.hero h1 {
+   font-size: 48px;
+}
+
+.hero p,
+.links a {
+   font-size: 18px;
+   color: #E5E7EB;
+}
+
+.logo {
+   font-size: 24px; 
+}
