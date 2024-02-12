@@ -8,3 +8,10 @@
 body {
    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.nav-bar,
+.hero,
+.footer {
+   background-color: #1F2937;
+}
+
