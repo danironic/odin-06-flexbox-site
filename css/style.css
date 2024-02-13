@@ -16,9 +16,17 @@ body {
    background-color: #1F2937;
 }
 
+
 .nav-bar {
    display: flex;
    justify-content: space-between;
+   align-items: center;
+   padding: 10px 250px 80px 250px;
+}
+
+.logo {
+   display: flex;
+   align-items: center;
 }
 
 .hero h1,
