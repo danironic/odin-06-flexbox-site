@@ -29,6 +29,11 @@ body {
    align-items: center;
 }
 
+.links ul {
+   display: flex;
+   gap: 20px;
+}
+
 .hero h1,
 .logo {
    color: #F9FAF8;
