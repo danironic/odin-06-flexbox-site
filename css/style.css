@@ -11,6 +11,15 @@ body {
 
 .nav-bar,
 .hero,
+.info-section,
+.quote-section,
+.cta,
+.footer {
+   padding: 0px 250px;
+}
+
+.nav-bar,
+.hero,
 .footer {
    background-color: #1F2937;
 }
