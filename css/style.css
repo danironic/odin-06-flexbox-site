@@ -116,6 +116,7 @@ button,
 
 .quote-section {
    background-color: #E5E7EB;
+   padding: 130px 375px 100px 375px;
 }
 
 .quote-section p {
@@ -127,4 +128,8 @@ button,
 
 .quote-section p.quote-author {
    font-weight: 700;
+   font-style: normal;
+   font-size: 26px;
+   width: 350px;
+   margin-left: auto;
 }
