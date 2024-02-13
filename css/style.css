@@ -86,10 +86,32 @@ button,
    background-color: #3882F6;
 }
 
+.info-section {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 50px 350px 100px 350px;
+}
+
+.geniuses {
+   display: flex;
+   gap: 50px;
+}
+
+.genius {
+   width: 150px;
+}
+
+.genius img {
+   border-radius: 4px;
+   border: 3px solid #3882F6
+}
+
 .info-section h2 {
    font-size: 36px;
    font-weight: bold;
    color: #1F2937;
+   margin-bottom: 50px;
 }
 
 .quote-section {
