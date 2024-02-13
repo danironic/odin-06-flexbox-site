@@ -6,7 +6,7 @@
 }
 
 body {
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family: "Roboto", sans-serif;
 }
 
 .nav-bar,
@@ -42,5 +42,16 @@ button,
 .info-section h2 {
    font-size: 36px;
    font-weight: bold;
+   color: #1F2937;
+}
+
+.quote-section {
+   background-color: #E5E7EB;
+}
+
+.quote-section p {
+   font-size: 36px;
+   font-weight: 100;
+   font-style: italic;
    color: #1F2937;
 }
